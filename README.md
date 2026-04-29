@@ -184,39 +184,40 @@ The `.pbix` file contains **7 interactive report pages**:
 ### 🏠 Home
 Landing page with project context, business problem statement, and navigation to all report pages.
 
-![Home](Dashboard%20Image/LENDX%20FINANCE.png)
+<img width="1044" height="629" alt="image" src="https://github.com/user-attachments/assets/3883b82c-7c00-4318-bf18-dacfd7dda611" />
+
 
 ### 📋 Executive Overview
 
-![Executive Overview](Dashboard%20Image/EXECUTIVE%20OVERVIEW.png)
+<img width="1043" height="631" alt="image" src="https://github.com/user-attachments/assets/0b9a38a1-5b05-4860-9287-6009c6a77346" />
 
 ### 📈 Growth & Time Analysis
 
-![Growth & Time Analysis](Dashboard%20Image/GROWTH%20%26%20TIME%20ANALYSIS.png)
+<img width="1047" height="629" alt="image" src="https://github.com/user-attachments/assets/d948ce50-f2ea-482f-9f9c-7e63170679f0" />
 
 ### 👥 Customer Insights
 
-![Customer Insights](Dashboard%20Image/CUSTOMER%20INSIGHTS.png)
+<img width="1042" height="619" alt="image" src="https://github.com/user-attachments/assets/da14effe-1eb5-4069-b2d1-648ff0e59c52" />
 
-![Customer Insights Detail](Dashboard%20Image/CUSTOMER%20INSIGHTS%20-%20DETAIL%20VIEW.png)
+<img width="1044" height="561" alt="image" src="https://github.com/user-attachments/assets/c1b8b2e4-e985-4f39-ae0c-903a8c692196" />
 
 ### 💼 Loan Portfolio Analysis
 
-![Loan Portfolio Analysis](Dashboard%20Image/LOAN%20PORTFOLIO%20ANALYSIS.png)
+<img width="1045" height="617" alt="image" src="https://github.com/user-attachments/assets/9b01ea3d-e9df-46af-b068-dc6a3711dfec" />
 
-![Loan Portfolio Detail](Dashboard%20Image/LOAN%20PORTFOLIO%20ANALYSIS%20-%20DETAIL%20VIEW.png)
+<img width="1045" height="582" alt="image" src="https://github.com/user-attachments/assets/0fd7ebca-b88f-43ff-8bdd-600852d67f71" />
 
 ### ⚠️ Risk & Default Analysis
 
-![Risk & Default Analysis](Dashboard%20Image/RISK%20%26%20DEFAULT%20ANALYSIS.png)
+<img width="1042" height="634" alt="image" src="https://github.com/user-attachments/assets/ef5d8b92-7e27-4228-b9d8-d6c912563836" />
 
 ### 🏢 Branch Performance
 
-![Branch Performance](Dashboard%20Image/BRANCH%20PERFORMANCE.png)
+<img width="1042" height="621" alt="image" src="https://github.com/user-attachments/assets/27966dfb-894b-472f-a2c4-cd4c8089553f" />
 
 ### 💡 Insights
 
-![Insights](Dashboard%20Image/INSIGHTS.png)
+<img width="1045" height="621" alt="image" src="https://github.com/user-attachments/assets/453e88ae-f977-4b01-a009-d7efd664ce67" />
 
 ---
 
