@@ -305,14 +305,10 @@ lendx-finance-analytics/
 
 ## 👤 Author
 
-**Built by:** Sneha Gupta
+**Built by:** Pranav Prakash
 **Tools:** PostgreSQL · Power BI · DAX · SQL  
 **Domain:** Financial Analytics · Lending · Risk Management
 
 ---
 
-> ⭐ If you found this project useful, please consider starring the repository!
 
----
-
-*This is a synthetic dataset created for analytical and portfolio demonstration purposes only.*
