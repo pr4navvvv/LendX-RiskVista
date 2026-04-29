@@ -66,7 +66,8 @@ This analysis focuses on identifying **risk concentration and profitability gaps
 
 The project follows a **Star Schema** design with 2 fact tables and 4 dimension tables:
 
-![Data Model](Data%20Model/DATA%20MODEL.png)
+<img width="1409" height="824" alt="image" src="https://github.com/user-attachments/assets/61f4ce7a-ca35-48af-90c5-19e2e3769925" />
+
 
 ```
                     ┌──────────────┐
